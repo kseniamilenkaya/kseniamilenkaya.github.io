@@ -1,0 +1,139 @@
+#header{
+	text-align:center;
+    font-size: 60px;
+	font-family: Tahoma;
+	color: yellow;
+	padding-top: 20px;
+	text-shadow: 0 0 5px orange;
+	margin-bottom: 60px;
+}
+
+#header2{
+	text-align:center;
+    font-size: 80px;
+	font-family: Tahoma;
+	color: yellow;
+	padding-top: 20px;
+	text-shadow: 0 0 5px orange;
+	margin-bottom: 20px;
+}
+
+body{
+	background-image: url(grey.jpg);
+	color:white;
+	font-family:Arial;
+	letter-spacing: 2px;
+	background-attachment: fixed;
+}
+
+h1{
+	color:#FF5FB9;
+}
+
+strong{
+	font-size: 14px;
+	font-family: Tahoma;
+	color: yellow;
+	text-shadow: 0 0 2px orange;
+}
+
+table,td,th{
+	border: 2px solid white;
+	border-collapse: collapse;;
+	padding: 5px;
+}
+
+a{
+	text-decoration: none;
+	font-family: Tahoma;
+	color: yellow;
+	text-shadow: 0 0 5px orange;
+}
+
+#menu{
+	position: fixed;
+	right: 30px;
+	top:160px;
+	border:2px solid yellow;
+	box-shadow: 0 0 5px orange;
+	padding: 10px;
+	border-radius: 5px; 
+}
+
+.menu{
+	text-decoration: none;
+	font-size: 32px;
+	font-family: Tahoma;
+	color: yellow;
+	text-shadow: 0 0 5px orange;
+}
+
+#text{
+	width: 550px;
+	margin-left: -275px;
+	margin-right: -275px;
+	left:50%;
+	position: absolute;
+}
+
+#reg{
+	border:2px solid white;
+	box-shadow: 0 0 5px grey;
+	padding: 10px;
+	border-radius: 5px; 
+	width:200px;
+}
+
+.soc{
+	width:60px;
+	height:60px;
+}
+
+#soc{
+	width:130px;
+	position: absolute;
+	left: 10px;
+	top:410px;
+}
+
+.pict{
+	width: 550px;
+	margin-bottom: 15px;
+}
+
+li,ol{
+	list-style: circle;
+}
+
+#ourBarb{
+	position: absolute;
+	right:20px;
+	top: 20px;
+	width:400px;
+}
+
+#ourBarb2{
+	position: absolute;
+	right:460px;
+	top: 20px;
+	width:400px;
+}
+
+#list{
+	border: 2px solid white;
+	border-radius: 10px;
+	width: 360px;
+}
+
+#navig{
+	top:525px;
+	left:-10px;
+	position: absolute;
+}
+
+.imgphoto{
+	margin:20px;
+	width:29.5%;
+	border:2px solid yellow;
+	box-shadow: 0 0 5px orange;
+}
